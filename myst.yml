@@ -5,10 +5,8 @@ project:
   description: Personal site
   authors:
     - Soham Kadam
+ 
     
 site:
-  title: AQI Data Analysis Book
-
-  options:
-    base_url: /aqi-data-analysis-book/
-
+  title: AQI Data Analysis
+  description: Personal project site
