@@ -1,0 +1,9 @@
+format: jb-book
+root: index
+
+chapters:
+  - file: intro
+  - file: methodology
+  - file: Mini_Project
+  - file: results
+  - file: conclusion

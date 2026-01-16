@@ -1,0 +1,13 @@
+title: Mini Project Data Analysis
+author: Soham Kadam
+
+execute:
+  execute_notebooks: auto
+
+repository:
+  url: ""
+  path_to_book: ""
+
+html:
+  use_issues_button: false
+  use_repository_button: false

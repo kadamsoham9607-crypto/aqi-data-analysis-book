@@ -1,0 +1,12 @@
+version: 1
+
+project:
+  title: AQI Data Analysis
+  description: Personal site
+  authors:
+    - Soham Kadam
+    
+site:
+  template: book-theme
+  options:
+    base_url: /aqi-data-analysis-book/
